@@ -1,0 +1,4 @@
+Guma[Kiekis: 95; Kaina: 0.75; Nuolaida: 0.0]
+Pienas[Kiekis: 100; Kaina: 1.0; Nuolaida: 15.0]
+Ledai[Kiekis: 95; Kaina: 2.0; Nuolaida: 15.0]
+Kiaušiniai[Kiekis: 95; Kaina: 0.25; Nuolaida: 0.0]
